@@ -29,7 +29,7 @@ This project demonstrates emergent multi-agent behavior with obstacle avoidance,
 
 ## Project Type
 
-Subject assignment + personal project  
+Subject Assignment + Personal Project 
 Developed collaboratively with a teammate
 
 ---
