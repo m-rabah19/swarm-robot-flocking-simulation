@@ -24,3 +24,16 @@ This project demonstrates emergent multi-agent behavior with obstacle avoidance,
 1. Open MATLAB
 2. Place the file in your working directory
 3. Run:
+   
+---
+
+## Project Type
+
+Subject assignment + personal project  
+Developed collaboratively with a teammate
+
+---
+
+## Author
+
+**Muhammed Rabah**
